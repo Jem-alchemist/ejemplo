@@ -1,25 +1,3 @@
-<h1><strong>Esto es un ejemplo</strong></h1>
-<p><strong><img src="https://cdn.instructables.com/FMN/PAUV/JF8IQC3S/FMNPAUVJF8IQC3S.LARGE.jpg?auto=webp&amp;frame=1&amp;fit=bounds" alt="" width="960" height="351" /></strong></p>
-<p><strong><a title="imagen" href="https://www.instructables.com/id/ESP8266-and-ESP32-With-WiFiManager/">Pincha aqui que es donde esta la imagen</a></strong></p>
-<p>&nbsp;</p>
-<table style="height: 105px;" width="153">
-<tbody>
-<tr>
-<td style="width: 66px;">pepe</td>
-<td style="width: 71px;">30Wh</td>
-</tr>
-<tr>
-<td style="width: 66px;">maria</td>
-<td style="width: 71px;">24Wh</td>
-</tr>
-<tr>
-<td style="width: 66px;">fernando</td>
-<td style="width: 71px;">un rato a pie</td>
-</tr>
-<tr>
-<td style="width: 66px;">otros</td>
-<td style="width: 71px;">y otro andando</td>
-</tr>
-</tbody>
-</table>
-<h2>Final</h2>
+<p style="text-align: center;"><img src="https://github.com/Jem-alchemist/MicroPython/blob/master/micropython.jpg?raw=true" alt="Micropython" width="638" height="359" /></p>
+<h1 style="text-align: center;">Hola mi nombre es Jes&uacute;s Manuel Escobar Mu&ntilde;oz me gusta jugar con la electr&oacute;nica y el c&oacute;digo.</h1>
+<p>&nbsp;Con este repositorio mi &uacute;nica intenci&oacute;n es recopilar una serie de librer&iacute;as codificada por otras personas y aplicarlas a mi c&oacute;digo. Por ahora no deja de ser una simple experimentaci&oacute;n . Ello no quita que en un futuro pues, qui&eacute;n sabe.</p>
