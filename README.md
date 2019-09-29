@@ -1,3 +1,2 @@
-<p style="text-align: center;"><img src="https://github.com/Jem-alchemist/MicroPython/blob/master/micropython.jpg?raw=true" alt="Micropython" width="638" height="359" /></p>
-<h1 style="text-align: center;">Hola mi nombre es Jes&uacute;s Manuel Escobar Mu&ntilde;oz me gusta jugar con la electr&oacute;nica y el c&oacute;digo.</h1>
+<p style="text-align: center;"><h1 style="text-align: center;">Hola mi nombre es Jes&uacute;s Manuel Escobar Mu&ntilde;oz me gusta jugar con la electr&oacute;nica y el c&oacute;digo.</h1>
 <p>&nbsp;Con este repositorio mi &uacute;nica intenci&oacute;n es recopilar una serie de librer&iacute;as codificada por otras personas y aplicarlas a mi c&oacute;digo. Por ahora no deja de ser una simple experimentaci&oacute;n . Ello no quita que en un futuro pues, qui&eacute;n sabe.</p>
